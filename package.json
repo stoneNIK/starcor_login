@@ -1,0 +1,12 @@
+{
+    "name": "starcor_login",
+    "version": "0.1.0",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "devDependencies": {
+        "electron": "^3.0.11",
+        "electron-localstorage": "^1.0.5"
+    }
+}
